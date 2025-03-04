@@ -3,11 +3,11 @@
 A cross-platform disk utility tool for analyzing file organization, detecting bloat, and cleaning up disk space.
 
 ## Features
-- ✅ **Disk Health Analysis**: Check disk space usage, file distribution, and SMART status.
-- ✅ **Bloat Scanner**: Identify large, old, or unnecessary files.
-- ✅ **File Organization Score**: Get a score based on file structure depth, age, and usage.
-- ✅ **Cleanup Utility**: Select files to delete and free up space safely.
-- ✅ **Cross-Platform**: Works on macOS, Windows, and Linux.
+- **Disk Health Analysis**: Check disk space usage, file distribution, and SMART status.
+- **Bloat Scanner**: Identify large, old, or unnecessary files.
+- **File Organization Score**: Get a score based on file structure depth, age, and usage.
+- **Cleanup Utility**: Select files to delete and free up space safely.
+- **Cross-Platform**: Works on macOS, Windows, and Linux.
 
 ## Installation
 ### Prerequisites
