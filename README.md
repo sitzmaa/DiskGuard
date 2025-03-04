@@ -19,6 +19,7 @@ git clone https://github.com/sitzmaa/DiskGuard.git
 cd DiskGuardian
 cargo build --release
 ./target/release/diskguard
+```
 
 ## Roadmap
 
